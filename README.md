@@ -2,7 +2,7 @@
 
 **Author**: Chengran
 
-**Date created**: November 13, 2020 
+**Date created**: November 14, 2020 
 
 This experiment was based on the decision making task of Wemm and Wulfert's (2017) [^1] research, which is a replication of Bechara and colleagues' (1994) [^2] original paper on LGT. This experiment has 100 trials. The schedule of card as stated by Shurman and colleagues (2017) [^3]: 
 
